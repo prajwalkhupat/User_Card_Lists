@@ -1,0 +1,11 @@
+.initials-image {
+  background-color: #007bff; /* You can change this to any color you like */
+  color: #fff; /* Text color */
+  width: 100px; /* Adjust as needed */
+  height: 100px; /* Adjust as needed */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px; /* Adjust as needed */
+  /* font-weight: bold; */
+}
